@@ -1,8 +1,14 @@
-# Python Data Boilerplate
+# NBA Barchart Race Data
 
-Repository that I use as a starting point for my python data wrangling experiments and screencasts.
+Data wrangling of public NBA day-by-day league table data for my barchart race videos.
 
-The repository comes with data analysis libraries stored in requirements.txt. In the future generic data wrangling utilities that I create may be added to the project.
+## Original Data Source
+
+I took the data from this web resource:
+
+https://www.basketball-reference.com/leagues/NBA_2023_standings_by_date_eastern_conference.html
+
+This data is specifically for the Eastern Conference's table for the season 2022/23.
 
 ## Setup
 
